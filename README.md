@@ -1,5 +1,4 @@
-# Form
-Form (survey/test) maker &amp; manager\
+# Form Maker & Manager
 Create, take, and edit surveys and tests\
 Save and load by utilizing Serializable interface\
 Question types: essay, multiple choice, short answer, ranking, matching, true/false
