@@ -28,8 +28,6 @@ test1.ser
 Eclipse Oxygen on Windows 10
 
 # User Manual
-I used the Serializable interface to load/store files. The sample survey and test files are in the folder "form".
-
 When you take a survey or a test, the responses are recorded in a vector called "attempts," which corresponds to a certain test or survey. You can grade an attempt of a certain test. Tabulation for a certain survey or test is done by looking at all of the responses in the attempts vector for each question. Therefore, no additional files are created for attempts, it's saved in the original survey or test file. I supplied 3 attempts in my sample survey and test.
 
 No null responses are permitted, and you must type an integer when asked for an integer. There are boundaries for entering integers (i.e. Number of attempts: 4 Which attempt do you want to grade? - You can only enter a number between 1-4.)
