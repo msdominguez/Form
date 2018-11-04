@@ -25,7 +25,7 @@ survey1.ser\
 test1.ser
 
 ## Development Environment:
-Eclipse Oxygen
+Eclipse Oxygen on Windows 10
 
 # User Manual
 I used the Serializable interface to load/store files. The sample survey and test files are in the folder "form".
